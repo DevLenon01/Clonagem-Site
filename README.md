@@ -35,19 +35,3 @@ npm run dev
 ```
 
 Acesse em `http://localhost:3000`
-
-## ☁️ Deploy
-
-### Deploy no [Vercel](https://vercel.com)
-
-1. Crie uma conta no Vercel
-2. Faça o push do projeto para o GitHub
-3. Clique em **"Import Project"** e selecione o repositório
-4. Siga as instruções e o Vercel irá fazer o deploy automaticamente
-
----
-
-### 👨‍💻 Desenvolvido por
-[Seu Nome ou Portfólio](https://seusite.com)
-
----
